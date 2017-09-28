@@ -1,0 +1,13 @@
+被扫测试参数：
+
+应用ID：
+appId=147333547695818
+
+应用密钥：appKey=KoJL6AejClRIAbwUvqJ0qphTaDDQTMKK
+
+被扫最好用支付宝，微信的话需要加subappid：wxa44e08a3cf8b560d
+
+
+银联被扫：
+149967844840763
+0JgLhiB1mz0LLZxn5LQxxYKy2v0909ON

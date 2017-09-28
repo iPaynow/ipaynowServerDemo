@@ -1,0 +1,7 @@
+主扫测试参数：
+
+应用ID：
+appId=147245449905115
+
+应用密钥：
+appKey=nxY3Gysbt3cCo9k6xdLSpch4MFg3S2bI

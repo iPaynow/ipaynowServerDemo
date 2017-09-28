@@ -1,0 +1,21 @@
+卡认证测试参数：
+	appId  = "1441071499740581";
+	md5Key = "DK96gnOB7EmVDDaHgLTLEZqVgP0H0nML";
+	des3Key = "Z5CbXbEaJA6CYRSDS5Ddsab6";
+	url = "https://dby.ipaynow.cn/identify";
+
+
+身份认证测试参数：
+	appId  = "1441071499740581";
+	md5Key = "DK96gnOB7EmVDDaHgLTLEZqVgP0H0nML";
+	des3Key = "abnMX6YXHjBdesCsn2TD8b25";
+	url = "https://dby.ipaynow.cn/identify";
+
+手机认证测试参数：
+      	appId  = "1476788813528909";
+	md5Key = "c4MlX9GJCi0YI5z3RvpK17wPlscFKpY1";
+	des3Key = "hSbw2SwTFs3SdnyS3sijvarq";
+	url = "https://dby.ipaynow.cn/identify";
+
+
+测试环境仅可以测试程序，签名是否正确，接口是否正常调通，不可校验数据，如需校验数据，务必切换到正式环境测试！

@@ -1,0 +1,14 @@
+测试参数：
+
+
+微信:
+appid=148999970238152
+md5key=ey12lW6mWurQAL73JMiSjZWj3T8p6rxK 
+
+支付宝H5：
+appid=147868777472129
+md5key=1FZMAlAplOTamX6OARDVV8hrswhbGEVg
+
+手Q:
+appid=1410853543946442
+md5key=hcNmo3CBAZ9bnQKd65aP8hE9KPI5glrc
